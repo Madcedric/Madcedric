@@ -270,5 +270,3 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 </div>
 
-
-
