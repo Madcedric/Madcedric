@@ -6,11 +6,11 @@
 
 
 
-\# Hi, I'm Madhan Kumar S 👋
+# Hi, I'm Madhan Kumar S 👋
 
 
 
-\### Machine Learning Engineer • Open Source Contributor • AI Automation Builder
+### Machine Learning Engineer • Open Source Contributor • AI Automation Builder
 
 
 
@@ -34,11 +34,11 @@
 
 
 
-\---
+---
 
 
 
-\# About
+# About
 
 
 
@@ -50,29 +50,29 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 
 
-\## Current Focus
+## Current Focus
 
 
 
-\- 🤖 AI Agents
+- 🤖 AI Agents
 
-\- 🧠 Machine Learning Engineering
+- 🧠 Machine Learning Engineering
 
-\- 🌍 Cross-Lingual NLP
+- 🌍 Cross-Lingual NLP
 
-\- ⚡ Workflow Automation
+- ⚡ Workflow Automation
 
-\- 🐍 Python Ecosystem
+- 🐍 Python Ecosystem
 
-\- ❤️ Open Source
-
-
-
-\---
+- ❤️ Open Source
 
 
 
-\# Open Source Contributions
+---
+
+
+
+# Open Source Contributions
 
 
 
@@ -92,11 +92,11 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 
 
-\---
+---
 
 
 
-\# Featured Projects
+# Featured Projects
 
 
 
@@ -116,15 +116,15 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 
 
-\---
+---
 
 
 
-\# Technology Stack
+# Technology Stack
 
 
 
-\### Languages
+### Languages
 
 
 
@@ -136,7 +136,7 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 
 
-\### AI \& Data
+### AI \& Data
 
 
 
@@ -148,7 +148,7 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 
 
-\### Backend
+### Backend
 
 
 
@@ -160,7 +160,7 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 
 
-\### Dev Tools
+### Dev Tools
 
 
 
@@ -172,11 +172,11 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 
 
-\---
+---
 
 
 
-\# GitHub Analytics
+# GitHub Analytics
 
 
 
@@ -204,11 +204,11 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 
 
-\---
+---
 
 
 
-\# GitHub Trophies
+# GitHub Trophies
 
 
 
@@ -224,35 +224,35 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 
 
-\---
+---
 
 
 
-\# Philosophy
+# Philosophy
 
 
 
-> \*\*Write clean code. Build useful software. Contribute back to Open Source. Keep learning.\*\*
+> **Write clean code. Build useful software. Contribute back to Open Source. Keep learning.\*\*
 
 
 
-\---
+---
 
 
 
-\# Connect
+# Connect
 
 
 
-\- GitHub: https://github.com/Madcedric
+- GitHub: https://github.com/Madcedric
 
-\- Portfolio: https://github.com/Madcedric/portfolio
+- Portfolio: https://github.com/Madcedric/portfolio
 
-\- LinkedIn: https://www.linkedin.com/in/madhansomudev
+- LinkedIn: https://www.linkedin.com/in/madhansomudev
 
 
 
-\---
+---
 
 
 
@@ -260,7 +260,7 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 
 
-\### "Transforming data with Machine Learning, enhancing UX with frontend, and solving problems with Python."
+### "Transforming data with Machine Learning, enhancing UX with frontend, and solving problems with Python."
 
 
 
