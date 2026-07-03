@@ -182,23 +182,13 @@ My focus is on shipping software that solves real-world problems instead of rema
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madcedric&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=8A2BE2"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madcedric&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=8A2BE2"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Madcedric\&show\_icons=true\&theme=dracula\&hide\_border=true\&bg\_color=0D1117\&title\_color=8A2BE2"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madcedric&theme=dark&hide_border=true"/>
 
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madcedric\&layout=compact\&theme=dracula\&hide\_border=true\&bg\_color=0D1117\&title\_color=8A2BE2"/>
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madcedric\&theme=dark\&hide\_border=true"/>
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madcedric\&theme=react-dark\&hide\_border=true\&bg\_color=0D1117\&color=8A2BE2\&line=8A2BE2"/>
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madcedric&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2"/>
 
 </div>
 
